@@ -1,6 +1,6 @@
 # Avaliação das músicas mais ouvidas no Spotify em 2023
 
-Equipe:
+Equipe responsável pelo projeto:
 Maiully Mendoça e Eslaine Santos
 
 ## Caso
@@ -15,7 +15,7 @@ A gravadora levantou uma série de hipóteses sobre o que faz uma música seja m
 - Artistas com um maior número de músicas no Spotify têm mais streams.
 - As características da música influenciam o sucesso em termos de número de streams no Spotify.
 
-- ## Objetivo
+## Objetivo
 
 - O objetivo dessa análise é ajudar a gravadora e o artista a tomar decisões baseadas nos dados que aumentem suas chances de ter sucesso nesse mercado
 
@@ -23,17 +23,17 @@ A gravadora levantou uma série de hipóteses sobre o que faz uma música seja m
     
     Você deve validar (refutar ou confirmar) as hipóteses levantadas através da análise de dados e fornecer recomendações estratégicas com base em suas descobertas. O objetivo principal desta análise é que a gravadora e o novo artista possam tomar decisões informadas que aumentem suas chances de alcançar o “sucesso”.
 
-  ## - BigQuery (linguagem SQL): para gerenciamento de dados.
+## BigQuery (linguagem SQL): para gerenciamento de dados.
 - Power BI: para visualização de dados.
 - Google Colab (Python): para realizar análises em Python.
 
-- ## Biblioteca de Dados
+ ## Biblioteca de Dados
 
-- **Que dados temos?**
 
-Para esse projeto, tivemos a disposição três diferentes tabelas: Competition, Spotify e Technical_info. Abaixo tem as tabelas e as descrições das variáveis de cada uma delas.
 
-- Tabela **Competition**
+    Para esse projeto, tivemos a disposição três diferentes tabelas: Competition, Spotify e Technical_info. Abaixo tem as tabelas e as descrições das variáveis de cada uma delas.
+
+ - Tabela **Competition**
     - Lista de variáveis:
     
     | Variável | Descrição |
@@ -44,7 +44,7 @@ Para esse projeto, tivemos a disposição três diferentes tabelas: Competition,
     | in_deezer_playlists | Número de playlists do Deezer em que a música está incluída. |
     | in_deezer_charts | Presença e posição da música nas paradas da Deezer. |
     | in_shazam_charts | Presença e classificação da música nas paradas da Shazam. |
-- Tabela **Spotify**
+ - Tabela **Spotify**
     - Lista de variáveis:
     
     | Variável | Descrição |
@@ -59,7 +59,7 @@ Para esse projeto, tivemos a disposição três diferentes tabelas: Competition,
     | in_spotify_playlists | Número de listas de reprodução do Spotify em que a música está incluída |
     | in_spotify_charts | Presença e posição da música nas paradas do Spotify |
     | streams | Número total de streams no Spotify. Representa o número de vezes que a música foi ouvida. |
-- Tabela **Technical_info**
+ - Tabela **Technical_info**
     
     
     | Variável | Descrição |
@@ -76,14 +76,14 @@ Para esse projeto, tivemos a disposição três diferentes tabelas: Competition,
     | liveness_% | Presença de elementos de performance ao vivo. |
     | speechiness_% | Quantidade de palavras faladas na música. |
 
-  ## Limpeza dos Dados
+## Limpeza dos Dados
 
-  ## Novas Variáveis
+## Novas Variáveis
 
-  ## Resultados e Discussão
+## Resultados e Discussão
 
-  ## Conclusão
+## Conclusão
 
-  ## Recomendações
+## Recomendações
 
-  ## Limitações
+## Limitações
