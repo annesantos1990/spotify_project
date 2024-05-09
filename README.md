@@ -3,7 +3,7 @@
 Equipe responsável pelo projeto:
 Maiully Mendoça e Eslaine Santos
 
-## Caso
+### Caso
 
 Em um mercado altamente competitivo, uma gravadora precisa inserir um novo artista no cenário global da música. Assim, essa gravadora viu a necessidade de tomar decisões estratégicas baseadas em dados.
 
@@ -15,7 +15,7 @@ A gravadora levantou uma série de hipóteses sobre o que faz uma música seja m
 - Artistas com um maior número de músicas no Spotify têm mais streams.
 - As características da música influenciam o sucesso em termos de número de streams no Spotify.
 
-## Objetivo
+### Objetivo
 
 - O objetivo dessa análise é ajudar a gravadora e o artista a tomar decisões baseadas nos dados que aumentem suas chances de ter sucesso nesse mercado
 
@@ -23,11 +23,11 @@ A gravadora levantou uma série de hipóteses sobre o que faz uma música seja m
     
     Você deve validar (refutar ou confirmar) as hipóteses levantadas através da análise de dados e fornecer recomendações estratégicas com base em suas descobertas. O objetivo principal desta análise é que a gravadora e o novo artista possam tomar decisões informadas que aumentem suas chances de alcançar o “sucesso”.
 
-## BigQuery (linguagem SQL): para gerenciamento de dados.
+### BigQuery (linguagem SQL): para gerenciamento de dados.
 - Power BI: para visualização de dados.
 - Google Colab (Python): para realizar análises em Python.
 
- ## Biblioteca de Dados
+### Biblioteca de Dados
 
 
 
@@ -76,14 +76,14 @@ A gravadora levantou uma série de hipóteses sobre o que faz uma música seja m
     | liveness_% | Presença de elementos de performance ao vivo. |
     | speechiness_% | Quantidade de palavras faladas na música. |
 
-## Limpeza dos Dados
+### Limpeza dos Dados
 
-## Novas Variáveis
+### Novas Variáveis
 
-## Resultados e Discussão
+### Resultados e Discussão
 
-## Conclusão
+### Conclusão
 
-## Recomendações
+### Recomendações
 
-## Limitações
+### Limitações
