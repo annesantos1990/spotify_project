@@ -1,7 +1,7 @@
 # Avaliação das músicas mais ouvidas no Spotify em 2023
 
-
-Esse projeto foi feito em parceria com Mayully Mendonça: 
+Equipe:
+Maiully Mendoça e Eslaine Santos
 
 ## Caso
 
