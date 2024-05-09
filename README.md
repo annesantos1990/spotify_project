@@ -23,15 +23,14 @@ A gravadora levantou uma série de hipóteses sobre o que faz uma música seja m
     
     Você deve validar (refutar ou confirmar) as hipóteses levantadas através da análise de dados e fornecer recomendações estratégicas com base em suas descobertas. O objetivo principal desta análise é que a gravadora e o novo artista possam tomar decisões informadas que aumentem suas chances de alcançar o “sucesso”.
 
-### BigQuery (linguagem SQL): para gerenciamento de dados.
+### Ferramentas
+- BigQuery (linguagem SQL): para gerenciamento de dados.
 - Power BI: para visualização de dados.
 - Google Colab (Python): para realizar análises em Python.
 
 ### Biblioteca de Dados
 
-
-
-    Para esse projeto, tivemos a disposição três diferentes tabelas: Competition, Spotify e Technical_info. Abaixo tem as tabelas e as descrições das variáveis de cada uma delas.
+  Para esse projeto, tivemos a disposição três diferentes tabelas: Competition, Spotify e Technical_info. Abaixo tem as tabelas e as descrições das variáveis de cada uma delas.
 
  - Tabela **Competition**
     - Lista de variáveis:
