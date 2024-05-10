@@ -8,6 +8,8 @@
 
 **Notebook do Google Colab** com os códigos utilizados para as análises: [Clique aqui]( https://colab.research.google.com/drive/119geWP5ptsqI5TKIUUcVjuHzDP8Ym9tK#scrollTo=W51ocgiq-h8Q)
 
+https://github.com/annesantos1990/spotify_project/blob/bc8bbc84bc77dcbff635e6db280220ea13a2feba/proj2_colaborativo.ipynb
+
 proj2_colaborativo.ipynb
 
 ## Caso
