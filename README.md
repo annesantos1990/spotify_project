@@ -8,6 +8,8 @@
 
 **Notebook do Google Colab** com os códigos utilizados para as análises: [Clique aqui]( https://colab.research.google.com/drive/119geWP5ptsqI5TKIUUcVjuHzDP8Ym9tK#scrollTo=W51ocgiq-h8Q)
 
+proj2_colaborativo.ipynb
+
 ## Caso
 
 Em um mercado altamente competitivo, uma gravadora precisa inserir um novo artista no cenário global da música. Assim, essa gravadora viu a necessidade de tomar decisões estratégicas baseadas em dados.
