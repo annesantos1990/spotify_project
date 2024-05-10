@@ -4,8 +4,9 @@
 
 
 
-Time responsável pelo projeto:
-Maiully Mendoça e Eslaine Santos
+**Time responsável pelo projeto**: Maiully Mendoça e Eslaine Santos
+
+**Notebook do Google Colab** com os códigos utilizados para as análises: [Clique aqui]( https://colab.research.google.com/drive/119geWP5ptsqI5TKIUUcVjuHzDP8Ym9tK#scrollTo=W51ocgiq-h8Q)
 
 ## Caso
 
