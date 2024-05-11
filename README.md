@@ -44,6 +44,12 @@ Para mais detalhes da biblioteca e do tratamento do dados, basta clicar nesse li
 
 ### Visualização dos dados - PowerBi
 Parte dos gráficos que estão apresentados na seção de resultados foi feito no PowerBi. Para acessar o dashboard feito nessa ferramenta, clique no Link abaixo:
+https://app.powerbi.com/view?r=eyJrIjoiZmU2ZTdjZTktYWQyOS00YjcwLTgyNDUtODM3ZmRhMDdiMTQ5IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9
+
+[![Texto Alternativo](https://github.com/annesantos1990/spotify_project/assets/166059836/908e0d4c-dbea-4b4e-8078-6dce037f9265)](https://app.powerbi.com/view?r=eyJrIjoiZmU2ZTdjZTktYWQyOS00YjcwLTgyNDUtODM3ZmRhMDdiMTQ5IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9)
+
+
+![3](https://github.com/annesantos1990/spotify_project/assets/166059836/908e0d4c-dbea-4b4e-8078-6dce037f9265)
 
 ### Análise dos dados - Google Colab
 Para a análise dos dados desse projeto foi utilizado o Google Colab. Para visulizar os códigos utilizados para as análises que serão vista na seção de resultados, acesse o Notebook: [Clique aqui](https://github.com/annesantos1990/spotify_project/blob/bc8bbc84bc77dcbff635e6db280220ea13a2feba/proj2_colaborativo.ipynb           )
@@ -80,11 +86,11 @@ Obs.: É importante ressaltar que os dados utilizados para esta análise constit
 
 → O gráfico abaixo mostra o total de músicas por ano de lançamento
 
-![Captura de tela 2024-05-08 175801.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/43eb7214-874e-4104-bde8-123b7f57e545/33971dce-2ea5-4f75-b05c-b54ce8f7ec5e/Captura_de_tela_2024-05-08_175801.png)
+![1](https://github.com/annesantos1990/spotify_project/assets/166059836/36a46366-b986-484e-8742-e6151768c88a)
 
 → O gráfico abaixo mostra a quantidade de streams por ano de lançamento da música:
 
-![Captura de tela 2024-05-08 110401.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/43eb7214-874e-4104-bde8-123b7f57e545/db7b24af-6ca2-4392-8488-b955031bd2b4/99321a7c-c089-4570-9e42-ea3640b8b3f7.png)
+![2](https://github.com/annesantos1990/spotify_project/assets/166059836/fda3dbe7-a452-4879-98c1-ea2cff5d8685)
 
 → Observa-se que as pessoas tendem a ouvir mais músicas lançadas recentemente, algumas possíveis explicações são:
 
