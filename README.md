@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis <img src="https://github.com/annesantos1990/spotify_project/assets/166059836/79e9bc2c-1feb-485e-bcf8-8e1b38e7a1f3" alt="Spotify" width="55" height="40"/>  </h1>
+<h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis <img src="https://github.com/annesantos1990/spotify_project/assets/166059836/79e9bc2c-1feb-485e-bcf8-8e1b38e7a1f3" alt="Spotify" width="120" height="45"/>  </h1>
 
 <sub>**Avaliação das músicas mais ouvidas no Spotify em 2023**<sub>
 
@@ -14,7 +14,7 @@
 
 ## Caso
 
-Em um mercado altamente competitivo, uma gravadora precisa inserir um novo artista no cenário global da música. Assim, essa gravadora viu a necessidade de tomar decisões estratégicas baseadas em dados.
+Em um mercado altamente competitivo, a gravadora Mix Master precisa inserir um novo artista no cenário global da música. Assim, essa gravadora viu a necessidade de tomar decisões estratégicas baseadas em dados.
 
 ## Principais Hipóteses
 
