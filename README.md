@@ -1,33 +1,15 @@
-<h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis   </h1>
+<h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis <img src="https://github.com/annesantos1990/spotify_project/assets/166059836/79e9bc2c-1feb-485e-bcf8-8e1b38e7a1f3" alt="Spotify" width="55" height="40"/>  </h1>
 
 <sub>**Avaliação das músicas mais ouvidas no Spotify em 2023**<sub>
 
-<p align="center">
-<a href="## Caso">Caso</a> •
-<a href="## Principais Hipóteses">Principais Hipóteses</a> •
- <a href="## Objetivo">Objetivo</a> •
-<a href="## Ferramentas">Ferramentas</a> •
-<a href="## Resultados e Discussão">Resultados e Discussão</a> •
-<a href="## Conclusões">Conclusões</a> •
-<a href="## Recomendações">Recomendações</a> •
-<a href="## Venha nos conhecer!">Venha nos conhecer!</a>
-</p>  
-
-
-1. [Caso](#caso)
-2. [Principais Hipóteses](#principais-hipóteses)
-3. [Objetivo](#objetivo)
-4. [Ferramentas](#ferramentas)
-5. [Resultados e Discussão](#resultados-e-discussão)
-6. [Conclusões](#conclusões)
-7. [Recomendações](#recomendações)
-8. [Venha nos conhecer!](#venha-nos-conhecer)
-
-
-
-
 **Time responsável pelo projeto**: Maiully Mendoça e Eslaine Santos
+##
 
+<p align="center">
+ 
+[Caso](#caso)  •  [Principais Hipóteses](#principais-hipóteses)  •  [Objetivo](#objetivo)  •  [Ferramentas](#ferramentas)   •  [Resultados e Discussão](#resultados-e-discussão)  •  [Conclusões](#conclusões)  •  [Recomendações](#recomendações)  •  [Venha nos conhecer!](#venha-nos-conhecer)
+
+</p>
 
 
 ## Caso
