@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis <img src="https://github.com/annesantos1990/spotify_project/assets/166059836/79e9bc2c-1feb-485e-bcf8-8e1b38e7a1f3" alt="Spotify" width="120" height="45"/>  </h1>
 
-<sub>**Avaliação das músicas mais ouvidas no Spotify em 2023 feita para a gravdora Mix Master**<sub>
+<sub>**Avaliação das músicas mais ouvidas no Spotify em 2023 feita para a gravadora Mix Master**<sub>
 
 **Time responsável pelo projeto**: Maiully Mendoça e Eslaine Santos
 ##
