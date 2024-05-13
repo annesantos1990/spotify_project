@@ -2,11 +2,23 @@
 
 <sub>**Avaliação das músicas mais ouvidas no Spotify em 2023**<sub>
 
+<p align="center">
+<a href="## Caso">Caso</a> •
+<a href="## Principais Hipóteses">Principais Hipóteses</a> •
+ <a href="## Objetivo">Objetivo</a> •
+<a href="## Ferramentas">Ferramentas</a> •
+<a href="## Resultados e Discussão">Resultados e Discussão</a> •
+<a href="## Conclusões">Conclusões</a> •
+<a href="## Recomendações">Recomendações</a> •
+<a href="## Veja o projeto no Power BI">Power BI</a> •
+<a href="## Resultados e Conclusões">Resultados e Conclusões</a> •
+<a href="Venha nos conhecer!">Venha nos conhecer!</a>
+</p>  
+
+
 
 
 **Time responsável pelo projeto**: Maiully Mendoça e Eslaine Santos
-
-
 
 
 
@@ -26,9 +38,9 @@ Em um mercado altamente competitivo, uma gravadora precisa inserir um novo artis
 
 - O objetivo dessa análise é ajudar a gravadora e o artista a tomar decisões baseadas nos dados que aumentem suas chances de ter sucesso nesse mercado
 
-- Objetivo do analista
-    
-    Você deve validar (refutar ou confirmar) as hipóteses levantadas através da análise de dados e fornecer recomendações estratégicas com base em suas descobertas. O objetivo principal desta análise é que a gravadora e o novo artista possam tomar decisões informadas que aumentem suas chances de alcançar o “sucesso”.
+  - Objetivo do analista
+      
+      Validar (refutar ou confirmar) as hipóteses levantadas através da análise de dados e fornecer recomendações estratégicas com base em suas descobertas.
 
 
 ## Ferramentas
@@ -77,9 +89,9 @@ Mas aqui, vou fazer um resumo dos principais resultados encontrados:
 
 **Streams por Mês de Lançamento:**
 
-→ Músicas lançadas em janeiro e em maio 2018 se destacam.
+→ Músicas lançadas em janeiro e em maio se destacam.
 
-→ O que pode estar associado a estratégias de lançamento para coicidir com eventos sazonais, como antecipação do festival de verão em países nórdicos e uma maior abertura a novidades no mês de janeiro.
+→ O que pode estar associado a estratégias de lançamento para coincidir com eventos sazonais, como antecipação dos festivais de verão em países nórdicos e uma maior abertura a novidades no mês de janeiro.
 
 
 **Hipóteses:**
@@ -134,6 +146,8 @@ Desenvolver uma Estratégia de Lançamento: Planejar e executar lançamentos reg
 Muitos fatores podem influenciar o número de streams, e muitos deles são externos ao Spotify, o que não é possível avaliar devido aos dados serem quase que exclusivamente provenientes dessa plataforma, com apenas algumas outras variáveis provenientes de plataformas de menor destaque como Deezer, Apple e Shazam.
 
 Por isso, investigar a influência de fatores externos é importante. Como exemplo, podemos considerar o impacto de ouvir um clipe no YouTube ou em outras redes sociais na quantidade de vezes que uma música será reproduzida no Spotify.
+
+Além disso, restringir os dados apenas às músicas mais ouvidas em um único ano pode limitar a generalização dos resultados, pois não considera a diversidade e a evolução do cenário musical ao longo do tempo
 
 ### Links das referências:
 (1) https://newsroom.spotify.com/company-info/
