@@ -10,10 +10,18 @@
 <a href="## Resultados e Discussão">Resultados e Discussão</a> •
 <a href="## Conclusões">Conclusões</a> •
 <a href="## Recomendações">Recomendações</a> •
-<a href="## Veja o projeto no Power BI">Power BI</a> •
-<a href="## Resultados e Conclusões">Resultados e Conclusões</a> •
 <a href="## Venha nos conhecer!">Venha nos conhecer!</a>
 </p>  
+
+
+1. [Caso](#caso)
+2. [Principais Hipóteses](#principais-hipóteses)
+3. [Objetivo](#objetivo)
+4. [Ferramentas](#ferramentas)
+5. [Resultados e Discussão](#resultados-e-discussão)
+6. [Conclusões](#conclusões)
+7. [Recomendações](#recomendações)
+8. [Venha nos conhecer!](#venha-nos-conhecer)
 
 
 
