@@ -12,7 +12,7 @@
 <a href="## Recomendações">Recomendações</a> •
 <a href="## Veja o projeto no Power BI">Power BI</a> •
 <a href="## Resultados e Conclusões">Resultados e Conclusões</a> •
-<a href="Venha nos conhecer!">Venha nos conhecer!</a>
+<a href="## Venha nos conhecer!">Venha nos conhecer!</a>
 </p>  
 
 
