@@ -55,7 +55,8 @@ Parte dos gráficos que estão apresentados na seção de resultados foi feito n
 ### Análise dos dados - Google Colab
 Para a análise dos dados desse projeto foi utilizado o Google Colab. Para visulizar os códigos utilizados para as análises que serão vista na seção de resultados, acesse o Notebook: [Clique aqui](https://github.com/annesantos1990/spotify_project/blob/bc8bbc84bc77dcbff635e6db280220ea13a2feba/proj2_colaborativo.ipynb           )
 
-
+## Apresentação do projeto
+Para ver os slides com a apresentação do projeto [clique aqui.](https://github.com/annesantos1990/spotify_project/blob/main/An%C3%A1lise%20-%20Spotify%20-%20Slides)
  
 ## Resultados e Discussão
 A análise detalhada desse projeto com os gráficos e discussões pode ser vista em nossa página pública do Notion: [Clique aqui](https://crystal-haumea-eb9.notion.site/Resultados-e-Conclus-es-dfc2af5e8eef4460ae8428b746c82511?pvs=4)
